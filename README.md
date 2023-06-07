@@ -39,6 +39,6 @@ I create Web apps in HTML/CSS, React, Redux and the MERN Stack. Constantly expan
 
 <b>My GitHub Stats</b>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcGranier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcGranier&theme=dark)](https://git.io/streak-stats)
