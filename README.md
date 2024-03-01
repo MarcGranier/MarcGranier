@@ -8,7 +8,7 @@ I create Web apps in HTML/CSS, React, Redux and the MERN Stack. Constantly expan
 
 * 🌍  I'm based in Greenville, NC
 * ✉️  You can contact me at [marc.granier@tomarcdev.com](mailto:marc.granier@tomarcdev.com)
-* 🚀  I'm currently working on a [REACT Ecommerce Application](https://github.com/MarcGranier/Techlines)
+* 🚀  I'm currently working on a full features property rental application
 * 🧠  I'm learning different ways to apply REACT apps
 * 🤝  I'm open to collaborating on projects that have run into a snag
 
